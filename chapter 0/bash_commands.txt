@@ -1,0 +1,11 @@
+mkdir
+cd
+cd ..
+touch
+rm 
+rm -rf
+rmdir
+mv
+cp
+ls
+code .
